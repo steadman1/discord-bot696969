@@ -1,0 +1,13 @@
+discord==1.0.1
+discord.py==1.5.1
+requests==2.24.0
+requests-toolbelt==0.9.1
+lyricsgenius==1.8.6
+google==3.0.0
+google-api-core==1.20.0
+google-api-python-client==1.9.3
+google-auth==1.17.0
+google-auth-httplib2==0.0.3
+gcloud==0.18.3
+async-timeout==3.0.1
+dnspython==1.16.0
